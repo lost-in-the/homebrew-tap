@@ -3,7 +3,7 @@ class Grove < Formula
   homepage "https://github.com/lost-in-the/grove"
   url "https://github.com/lost-in-the/grove/archive/refs/tags/v0.8.0.tar.gz"
   sha256 "53fba3205ef4123723f69f78b2ba3b0bfee31bc88b462cef9d5e94d5418065af"
-  license "MIT"
+  license "Apache-2.0"
 
   depends_on "go" => :build
 
